@@ -1,0 +1,52 @@
+.commercial{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textCommerical{
+    position: relative;
+    top: 0%;
+    left: 0%;
+    transform: translate(-0%, -0%);
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    line-height: 2;
+}
+.contactOur .ourText h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+
+    font-weight: 600;
+}
+.contactOur .ourText p{
+    font-size: 16px;
+   
+}
+.contactOur .Pabout{
+    font-size: 16px;
+    
+}
+.row .one{
+    display: flex;
+    gap: 20px;
+}
+.row .one input{
+    width: 100%;
+}
+.ourInput input, .ourInput textarea{
+    width: 100%;
+    padding: 16px 12px;
+
+    border: none;
+    margin-bottom: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+}
+.ourInput button{
+    padding: 16px 48px;
+   
+    font-size: 16px;
+    border: none;
+}

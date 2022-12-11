@@ -1,0 +1,190 @@
+.pColor {
+  color: #8d9297;
+}
+
+.orange {
+  color: #fda12b;
+}
+.orangeBg,
+.hoverColor::after {
+  background-color: #fda12b;
+}
+.black {
+  color: #182333;
+}
+.footer {
+  color: #999999;
+}
+.carousel input,
+.carousel textarea,
+.bgBlack {
+  background-color: #182333;
+}
+.btn a,
+.white {
+  color: #f8f9fa;
+}
+
+.backg1 {
+  background-color: #f8f9fa;
+}
+.carousel input::placeholder,
+.carousel textarea::placeholder {
+  color: #8d9297;
+}
+.fff {
+  color: white;
+}
+
+.border {
+  border-color: #dee2e6;
+}
+
+.links ul li a:hover {
+  color: #fda12b;
+}
+
+.fact::after,
+.commercial::after,
+.overlay {
+  background-color: rgba(7, 7, 7, 0.664);
+}
+
+.headAbout::after,
+.circle::after,
+.circle::before {
+  background-color: #fda12b;
+}
+
+.info {
+  background-color: #fda12b;
+  border-color: white;
+}
+
+.check {
+  border-color: #dee2e6;
+}
+
+.transparent {
+  color: transparent;
+}
+
+.textStroke {
+  -webkit-text-stroke: 2px #fda12b;
+}
+
+.btn a {
+  background-color: #fda12b;
+}
+.btn a:hover {
+  background-color: #fdaf4b;
+  border-color: #fdaa40;
+}
+
+.hoverColor:hover .textSer h3 {
+  color: white;
+}
+.hoverColor:hover .textSer p {
+  color: white;
+}
+.hoverColor:hover .textSer a {
+  color: white;
+}
+.allOFTeam .col .text {
+  background: white;
+}
+.borderBottom20::after {
+  background-color: #fda12b;
+}
+.cli .i {
+  border: 2px solid #fda12b;
+}
+.cli .i:hover {
+  background-color: #fda12b;
+  color: white;
+}
+footer .sec .socails .iconsSocail {
+  border-color: #fda12b;
+}
+footer .sec .socails .iconsSocail i {
+  color: #fda12b;
+}
+footer .sec .socails .iconsSocail:hover {
+  background-color: #fda12b;
+}
+footer .sec .socails .iconsSocail:hover i {
+  color: #fff;
+}
+footer ul li:hover a {
+  color: #fff;
+}
+footer input {
+  background-color: #182333;
+  border-color: #fff !important;
+}
+.btnNew .new {
+  background-color: #fda12b;
+  border-color: #fda12b;
+  color: white;
+}
+.btnNew .new:hover {
+  background-color: #fdaf4b;
+  border-color: #fdaa40;
+}
+.line {
+  background-color: rgba(256, 256, 256, 0.1);
+}
+.up {
+  background-color: #fda12b;
+  color: white;
+}
+.up:hover {
+  background-color: rgb(250, 201, 111);
+}
+.menuIcon i {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+.ourInput button:hover {
+  background-color: #fdaf4b;
+  border-color: #fdaa40;
+}
+.showLink .nextLink {
+  background: white;
+}
+.carousel {
+  background-color: white;
+}
+
+.carousel p {
+  color: #8d9297 !important;
+}
+.carousel .headAbout h2 {
+  color: #182333 !important;
+}
+.carousel input,
+.carousel textarea {
+  background-color: #f8f9fa !important;
+}
+.contactOur .ourText h2 {
+ 
+  color: #182333;
+}
+.contactOur .ourText p{
+
+    color: #8D9297;
+}
+.contactOur .Pabout{
+   
+    color: #8D9297;
+}.ourInput input, .ourInput textarea{
+  
+    color: #8D9297;
+    background-color: #F8F9FA ;
+ 
+}
+.ourInput button{
+   
+    background-color: #FDA12B;
+    color: white;
+    
+}
